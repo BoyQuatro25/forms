@@ -22,4 +22,11 @@ body {
 .body {
   flex: 1;
   display: flex;
+
 } 
+.container{
+  background-color: whitesmoke;
+}
+label{
+  display: block;
+}
